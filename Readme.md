@@ -67,7 +67,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kuttudb/auto-filter-bot-v3.git">
+<a href="https://github.com/shahanu7034/auto-filter-bot-v3">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
